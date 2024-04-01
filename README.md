@@ -1,2 +1,2 @@
 # game
-i will make a gaming portfolio
+I will try to make a gaming website 
